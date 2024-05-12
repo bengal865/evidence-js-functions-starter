@@ -7,15 +7,7 @@
     - index.html
     - main.js
 
-## Sample Output
-
-Your finished project should look similar to this example:
-
-![Desert landscape in Mexico](desert-mexico.png "Mexican Desert")
-
-*Desert in Mexico*
-
-## Helpful Resources
+## Finding Resources
 
  - Use Google or previous JavaScript projects as resources
  
@@ -23,5 +15,8 @@ Your finished project should look similar to this example:
 
  - Comment out the starter functions in the *main.js* starter file
  - Then rewrite each starter function as a JavaScript **arrow function**
+ - Make sure your output is correct and properly formatted
+
+
 
 
