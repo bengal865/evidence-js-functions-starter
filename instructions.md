@@ -4,8 +4,8 @@
  - Save your project files to a new GitHub repo named: **evidence-functions-js**
  - Submit the URL to your repo on Google Classroom
  - Add these files to your repo:
- -  index.html
- -  main.js
+ -   index.html
+ -   main.js
 
 ## Sample Output
 
