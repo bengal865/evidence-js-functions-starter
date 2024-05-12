@@ -21,7 +21,7 @@ Your finished project should look similar to this example:
  
 ## Directions
 
- - 
- - Step 2
+ - Comment out the starter functions in the *main.js* starter file
+ - Then rewrite each starter function as a JavaScript **arrow function**
 
 
