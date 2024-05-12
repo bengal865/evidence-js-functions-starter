@@ -1,2 +1,2 @@
-# evidence-js-functions-starter
-Starter files for your JavaScript Functions evidence project
+# Evidence: JavaScript Functions
+Please read the markdown (.md) instructions before you start writing any code.
